@@ -29,6 +29,7 @@ Dataset: Simple synthetic dataset for demonstration purposes.
 ## Code Structure
 
 ├── main.py          # Core implementation of the single neuron
+
 ├── README.md        # Project documentation
 
 Running the Code
